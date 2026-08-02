@@ -32,7 +32,7 @@
 ## 🧠 About Me
 ### About me
  
-I'm an **AI Engineer** with 1+ years of hands-on experience building production-ready AI systems. I specialise in **LLM-powered applications**, **RAG pipelines**, and **AI Agents** — turning complex AI into real, maintainable products. Strong Data Science foundation with experience across ML, NLP, and predictive analytics.
+I'm an **AI Engineer** with 1+ years of hands-on experience building production-ready AI systems. I specialise in **LLM-powered applications**, **RAG pipelines**, and **AI Agents**  turning complex AI into real, maintainable products. Strong Data Science foundation with experience across ML, NLP, and predictive analytics.
  
 - 🔭 I'm currently building with **LangChain · LangGraph · CrewAI · Agno**
 - 🌱 I'm currently deepening skills in **Agentic AI & Multi-Agent Systems**
@@ -152,8 +152,8 @@ Hybrid recommendation engine combining two filtering methods for personalised mu
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarsaddique13&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarsaddique13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="40%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarsaddique22&theme=tokyonight&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarsaddique22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="40%"/>
 </div>
 
 <br/>
