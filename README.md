@@ -34,7 +34,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** who builds LLM applications end to end — from retrieval and agents to evaluation, guardrails, CI/CD and cloud deployment. I have **6+ months of professional experience** in Data Science & Generative AI, plus freelance client work.
+I'm an **AI Engineer** who builds LLM applications end to end  from retrieval and agents to evaluation, guardrails, CI/CD and cloud deployment. I have **6+ months of professional experience** in Data Science & Generative AI, plus freelance client work.
 
 - 🛠️ **Currently building:** a WhatsApp AI customer-support bot for a live Shopify store (Roman Urdu + English, voice notes, RAG FAQ, live catalog sync)
 - 🚀 **Recently shipped:** a production-style RAG system on AWS with hybrid search, reranking, RBAC, guardrails and automated evaluation
@@ -134,7 +134,9 @@ AI customer-support bot for a live Shopify store, answering product, price and p
 - 🛡️ Prompt-injection detection with cool-down for repeated attacks
 - ✅ **2,000+ automated tests**, LangSmith evaluation, GitHub Actions CI
 
-*Client project (freelance) — code is private.*
+*Freelance client project — shared with the client's permission.*
+
+[**View repo →**](https://github.com/abubakarsaddique22/whatsapp_shopify_bot)
 
 </td>
 </tr>
