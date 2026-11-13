@@ -34,11 +34,12 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** who builds LLM applications end to end  from retrieval and agents to evaluation, guardrails, CI/CD and cloud deployment. I have **6+ months of professional experience** in Data Science & Generative AI, plus freelance client work.
+I'm an **AI Engineer** who builds LLM applications end to end, from retrieval and agents to evaluation, guardrails, CI/CD and cloud deployment. I have **1 year of hands-on experience** in Data Science & Generative AI, across two internships and freelance client work on Upwork and with local businesses.
 
-- 🛠️ **Currently building:** a WhatsApp AI customer-support bot for a live Shopify store (Roman Urdu + English, voice notes, RAG FAQ, live catalog sync)
+- 🛠️ **Currently launching:** a WhatsApp AI customer-support bot for a Shopify store client (Roman Urdu + English, voice notes, RAG FAQ, live catalog sync)
 - 🚀 **Recently shipped:** a production-style RAG system on AWS with hybrid search, reranking, RBAC, guardrails and automated evaluation
-- 📚 **Recently covered:** LLM Evaluation (DeepEval, RAGAS) · AI Security & Guardrails · AI System Design · LLMOps
+- 📚 **Recently covered:** Context Engineering · LLM Evaluation (DeepEval, RAGAS) · AI Security & Guardrails · AI System Design · LLMOps
+- 🌱 **Currently learning:** Multimodal AI · AWS managed AI services
 - 💼 **Open to:** Junior / Associate AI Engineer roles and freelance AI projects
 - 📍 Lahore, Pakistan
 
@@ -56,6 +57,8 @@ I'm an **AI Engineer** who builds LLM applications end to end  from retrieval an
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-LoRA_%C2%B7_QLoRA-4B5563?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Systems-4B5563?style=for-the-badge)
 
 ### 🔎 Retrieval & Vector DBs
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
@@ -66,6 +69,7 @@ I'm an **AI Engineer** who builds LLM applications end to end  from retrieval an
 ### 🧪 LLM Evaluation & Safety
 ![DeepEval](https://img.shields.io/badge/DeepEval-111827?style=for-the-badge)
 ![RAGAS](https://img.shields.io/badge/RAGAS-111827?style=for-the-badge)
+![LLM-as-a-Judge](https://img.shields.io/badge/LLM--as--a--Judge-111827?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Guardrails](https://img.shields.io/badge/Guardrails-PII_%C2%B7_Prompt_Injection-111827?style=for-the-badge)
 
@@ -90,7 +94,6 @@ I'm an **AI Engineer** who builds LLM applications end to end  from retrieval an
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -126,13 +129,14 @@ RAG assistant over company documents with hybrid retrieval, reranking, role-base
 ### 💬 WhatsApp AI Support Bot
 > **FastAPI · WhatsApp Cloud API · Shopify API · Groq · RAG**
 
-AI customer-support bot for a live Shopify store, answering product, price and policy questions in **Roman Urdu & English**.
+AI customer-support bot for a Shopify store client, answering product, price and policy questions in **Roman Urdu & English**.
 
 - 🛍️ Live catalog synced via Shopify webhooks + RAG FAQ knowledge base
 - 🎙️ Voice-note understanding with **Groq Whisper large-v3**
 - 🔤 Typo-tolerant product search, price filters, human handoff alerts
 - 🛡️ Prompt-injection detection with cool-down for repeated attacks
 - ✅ **2,000+ automated tests**, LangSmith evaluation, GitHub Actions CI
+- 🚀 Code complete; AWS EC2 launch pending the client's Meta business verification
 
 *Freelance client project — shared with the client's permission.*
 
@@ -188,7 +192,7 @@ MLOps pipeline + Chrome extension showing live sentiment for YouTube comments.
 
 | Role | Organisation | Period |
 |:---|:---|:---|
-| AI Engineer (Freelance) | Tussles Store | Oct 2026 – Present |
+| AI Engineer (Freelance) | Upwork & direct clients | May 2026 – Present |
 | Data Science & GenAI Intern | Salaar Technologies Pvt. Ltd. | Oct 2025 – Apr 2026 |
 | Data Science Intern | DevelopersHub Corporation | Jun 2025 – Jul 2025 |
 
@@ -218,6 +222,7 @@ MLOps pipeline + Chrome extension showing live sentiment for YouTube comments.
 | AI Agents with CrewAI | CampusX |
 | AI Agents using Agno | CampusX |
 | GenAI using Ollama | CampusX |
+| Context Engineering | CampusX — Nov 2026 |
 
 </div>
 
